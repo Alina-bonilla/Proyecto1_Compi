@@ -1,0 +1,17 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package Clases;
+
+
+public enum token {
+    ID, INT, SUMA, MULT, RESTA, DIV, ASSIGN,FLOAT, DIFERENTE,
+    CHAR, IGUAL, MODULO, STRING, END, POTENCIA, MAYOR,
+    BOOL, TRUE, DISMINUIR, MENORIGUAL, LISTE, FALSE,
+    AUMENTAR, MAYORIGUAL, DISYUNCION, CONJUCION, MAIN, IF,
+    ELIF, ELSE, DOWHILE, FOR, PRINT, INPUT, PAREN1, PAREN2,
+    LLAVE1, LLAVE2, CUADRO1, CUADRO2, COMA, ENTER, ESPACIO,
+    NUM, DECIMAL, NEGACION, PROGRAMA, MENOR
+}
